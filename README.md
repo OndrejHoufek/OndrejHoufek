@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ondřej Houfek</h1>
-<h3 align="center">A passionate software tester form Czech republic</h3>
+<h3 align="center">A passionate software tester from Czech republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ondrejhoufek&label=Profile%20views&color=0e75b6&style=flat" alt="ondrejhoufek" /> </p>
 
